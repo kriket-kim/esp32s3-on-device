@@ -62,10 +62,15 @@ ESP에서의 파이프라인은 다음과 같습니다:
 - dsps_fft_main.cpp - 메인 함수 코드
 
 템플릿 불러오기:
+
 idf.py create-project-from-example "espressif/esp-dsp:fft"
+
 디펜던시 설치:
+
 idf.py add-dependency "espressif/esp-tflite-micro"
+
 모델 변환 코드:
+
 xxd -i your_model_name.tflite > model_data.h
 
 ## 추가 내용
