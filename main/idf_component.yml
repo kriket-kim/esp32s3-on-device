@@ -1,0 +1,4 @@
+dependencies:
+  espressif/esp-dsp:
+    version: '*'
+  espressif/esp-tflite-micro: '*'
