@@ -1,1 +1,1 @@
-idf_component_register(SRCS "dsps_fft_main.c")
+idf_component_register(SRCS "fft2inf_main.cpp")
