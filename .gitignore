@@ -1,6 +1,6 @@
-/build/
-/sdkconfig
-/managed_components/
+build/
+sdkconfig
+managed_components/
 /ESC-50-master*
 /custom_dataset*
 /VISC_Dataset_SON*
